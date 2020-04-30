@@ -1,2 +1,2 @@
 # Certificates
-Certificates
+All certificates
